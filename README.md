@@ -18,7 +18,7 @@
 8. 在变量与机密中添加一个纯文本，命名为小写的uuid，值就是随便去一个uuid生成网站生成一个，然后完成这个操作并确认
 9. 将在7. 中添加的域名后加上/（你你在8.中添加的uuid）并访问
 10. 恭喜你创建了自己的节点获取网站，你可以看到自己的VLESS（单个）和订阅类的了。
-# CF-VLESS（English README）
+# CF-VLESS（English README）Machine translation has semantic errors
 ## See Releases for code!!！
 A node that gets a VLESS subscription for free on CLOUD*** RE (you can change the text inside to fork it to your GitHub repository, and then you can use it as your own node to get the website when needed)
 You can only create VLESS code nodes, and you can compile other types of nodes by yourself
